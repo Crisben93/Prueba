@@ -1,3 +1,3 @@
 def add(a,b):
-    print("Operación en proceso")
+    print("Operación de suma en proceso")
     return a+b
